@@ -11,9 +11,7 @@ const urlsToCache = [
   '/script.js',
   '/manifest.json',
   '/favicon.png',
-  '/photos/interior.webp',
   '/photos/interior.jpg',
-  '/photos/cathedral-view.webp',
   '/photos/cathedral-view.jpg',
   // Add other critical images
 ];
