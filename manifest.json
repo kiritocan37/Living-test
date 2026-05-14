@@ -1,0 +1,23 @@
+{
+  "name": "Livin Cafe Tbilisi",
+  "short_name": "Livin Cafe",
+  "description": "Pure Vegetarian & Vegan Rooftop Cafe with 360° Views of Holy Trinity Cathedral",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffdf8",
+  "theme_color": "#1a6b3c",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait-primary",
+  "lang": "en-US"
+}
